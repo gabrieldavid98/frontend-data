@@ -1,0 +1,162 @@
+[
+    {
+        "imagen": "img/productos/1.PNG",
+        "nombre": "Tomate",
+        "precio": 7000,
+        "descripcion": "Tomate de alta calidad, cultivado organicamente sin pesticidas ni quimicos",
+        "cantidad": 300,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/2.PNG",
+        "nombre": "Mazorca",
+        "precio": 8000,
+        "descripcion": "Mazorca fresca cultivada organicamente sin pesticidas ni quimicos.",
+        "cantidad": 20,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/3.PNG",
+        "nombre": "Lechuga",
+        "precio": 7000,
+        "descripcion": "Lechuga de alta calidad, cultivada organicamente sin pesticidas ni quimicos",
+        "cantidad": 300,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/4.PNG",
+        "nombre": "SAL MARINA REFISAL 800 G",
+        "precio": 3450,
+        "descripcion": "La Sal Marina Refisal es el toque esencial que tu cocina necesita para realzar los sabores de tus platos favoritos. Nuestra sal marina, cuidadosamente recolectada de las cristalinas aguas del océano, es un ingrediente puro y natural que transformará tus comidas en auténticas delicias culinarias. ",
+        "cantidad": 70,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/5.PNG",
+        "nombre": "QUESO MOZZARELLA TAJADO LATTI 400 GRS",
+        "precio": 9690,
+        "descripcion": "Nuestro Queso Mozzarella Tajado es la elección perfecta para aquellos que buscan la mejor calidad y sabor en sus platos. Este queso, conocido por su textura suave y cremosa, es un ingrediente esencial en muchas recetas de cocina italiana y más allá.",
+        "cantidad": 100,
+        "enPromocion": true
+    },
+    {
+        "imagen": "img/productos/6.PNG",
+        "nombre": "HUEVO TIPO AA SOL NACIENTE 30 UND",
+        "precio": 16000,
+        "descripcion": "Los Huevos Tipo AA Sol Naciente son la elección perfecta para aquellos que buscan la máxima frescura y calidad en sus alimentos. Cada docena de estos huevos representa un estándar de excelencia en la industria, y son una fuente esencial de proteínas y nutrientes para una alimentación equilibrada.",
+        "cantidad": 30,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/7.PNG",
+        "nombre": "LIMON TAHITI X 1000 GR",
+        "precio": 5000,
+        "descripcion": "Los Limones Tahití son conocidos por su sabor cítrico fresco y su versatilidad en la cocina. Nuestros limones, cuidadosamente seleccionados, son la elección perfecta para dar vida a tus recetas con un toque de acidez y frescura.",
+        "cantidad": 50,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/8.PNG",
+        "nombre": "CEBOLLA CABEZONA 500 G",
+        "precio": 2350,
+        "descripcion": "Las Cebollas Cabezona son un componente fundamental en la cocina de todo el mundo. Nuestra selección de cebollas frescas, en presentación de 500 gramos, es la elección perfecta para agregar sabor y versatilidad a tus recetas.",
+        "cantidad": 10,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/9.PNG",
+        "nombre": "PAPA CAPIRA 2000 GRS",
+        "precio": 5600,
+        "descripcion": "Las Papas Capira son un tesoro culinario apreciado en todo el mundo por su sabor único y versatilidad en la cocina. Nuestra oferta de Papas Capira, en una presentación de 2000 gramos, es la elección perfecta para dar vida a tus recetas y deleitar tu paladar. ",
+        "cantidad": 40,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/10.PNG",
+        "nombre": "MANGO TOMMY",
+        "precio": 4600,
+        "descripcion": "El Mango Tommy es una joya de la naturaleza que nos brinda el inconfundible sabor del trópico. Esta exquisita variedad de mango es conocida por su dulzura irresistible, su jugosidad y su aroma embriagador, lo que lo convierte en una fruta favorita en todo el mundo.",
+        "cantidad": 60,
+        "enPromocion": true
+    },
+    {
+        "imagen": "img/productos/11.PNG",
+        "nombre": "UVAS IMPORTADAS RED GLOBE 500 G X 1 UND",
+        "precio": 11500,
+        "descripcion": "Las Uvas Red Globe son una exquisitez que viaja desde los viñedos más selectos del mundo para llegar a tu hogar. Nuestra oferta de Uvas Red Globe, en una presentación de 500 gramos (1 unidad), es un testimonio de calidad, frescura y sabor inigualable.",
+        "cantidad": 77,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/12.PNG",
+        "nombre": "TOSH FUSIÓN DE CEREALES 195G",
+        "precio": 4300,
+        "descripcion": "TOSH Fusión de Cereales es la elección perfecta para quienes buscan un snack saludable y delicioso que combina lo mejor de los cereales. Esta mezcla única de ingredientes te ofrece una experiencia de sabor inigualable y un impulso de energía en cada bocado.",
+        "cantidad": 100,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/13.PNG",
+        "nombre": "PAPEL HIGIÉNICO 3 H 12 UN RENDY 33 MTS",
+        "precio": 14900,
+        "descripcion": "El Papel Higiénico Rendy es la elección perfecta para mantener la higiene y comodidad en tu hogar. Con 3 hojas de suavidad excepcional y una longitud generosa de 33 metros por rollo, cada paquete te brinda la calidad y el rendimiento que necesitas.",
+        "cantidad": 55,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/14.PNG",
+        "nombre": "CREMA DENTAL TRIPLE ACCIÓN COLGATE 100 ML",
+        "precio": 6350,
+        "descripcion": "La Crema Dental Triple Acción de Colgate es mucho más que una pasta de dientes común. Es un aliado esencial en tu rutina de cuidado bucal que te brinda una limpieza completa y una protección duradera para tu sonrisa.",
+        "cantidad": 400,
+        "enPromocion": true
+    },
+    {
+        "imagen": "img/productos/15.PNG",
+        "nombre": "Lenteja FRESCAMPO 500 gr",
+        "precio": 7000,
+        "descripcion": "Las Lentejas FRESCAMPO son un tesoro de la naturaleza que brinda una nutrición excepcional y un sabor inigualable en cada grano. Nuestra selección de lentejas, en una presentación de 500 gramos, es la elección perfecta para enriquecer tus comidas con salud y delicioso sabor.",
+        "cantidad": 40,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/16.PNG",
+        "nombre": "Arveja Verde FRESCAMPO 500 gr",
+        "precio": 2100,
+        "descripcion": "Las Arvejas Verdes FRESCAMPO son un producto alimenticio de alta calidad que se encuentra en una presentación de 500 gramos. Estas arvejas verdes son una excelente opción para agregar a tu dieta diaria, ya que ofrecen una gran cantidad de beneficios nutricionales y versatilidad en la cocina.",
+        "cantidad": 40,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/17.PNG",
+        "nombre": "Frijol Zaragoza FRESCAMPO 500 gr",
+        "precio": 4350,
+        "descripcion": "Los Frijoles Zaragoza FRESCAMPO 500 gr son una excelente adición a tu despensa, proporcionando una fuente nutritiva y versátil de proteínas vegetales y otros nutrientes esenciales. Descubre cómo estos frijoles pueden enriquecer tus comidas y añadir un toque delicioso y saludable a tus recetas favoritas. ",
+        "cantidad": 40,
+        "enPromocion": true
+    },
+    {
+        "imagen": "img/productos/18.PNG",
+        "nombre": "Quesillo 20 Tajadas KLAREN S 400 gr",
+        "precio": 20000,
+        "descripcion": "El Quesillo 20 Tajadas KLAREN S 400 gr es la elección ideal para aquellos que buscan una deliciosa y versátil adición a sus platos. Ya sea que lo disfrutes solo, en sándwiches o como parte de tus recetas favoritas, este quesillo es un ingrediente que realza el sabor y la calidad de tus comidas. Agrega este producto de calidad a tu cesta de compras y experimenta su sabor excepcional.",
+        "cantidad": 10,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/19.PNG",
+        "nombre": "SIXPACK AVENA NATURAL UHT KLAREN S 1200 ml",
+        "precio": 13050,
+        "descripcion": "Una excelente elección para quienes buscan una forma práctica y saludable de incorporar la avena en su dieta. Ya sea como parte de un desayuno equilibrado, un snack o una base para recetas creativas, este producto te proporciona la versatilidad y los beneficios nutricionales de la avena de manera conveniente. Agrega este SIXPACK a tu cesta de compras y disfruta de la avena natural cuando más lo necesites.",
+        "cantidad": 10,
+        "enPromocion": false
+    },
+    {
+        "imagen": "img/productos/20.PNG",
+        "nombre": "MANTEQUILLA SIN SAL ALPINA 125 GRS",
+        "precio": 7800,
+        "descripcion": "La Mantequilla sin sal Alpina 125 gramos es una elección sabrosa y versátil para tus necesidades culinarias. Ya sea que la uses para cocinar, hornear o simplemente untar en tu pan favorito, esta mantequilla sin sal te brinda la pureza y el sabor natural de la mantequilla sin la adición de sal. Agrega este producto de calidad a tu cesta de compras y disfruta de su versatilidad en la cocina.",
+        "cantidad": 300,
+        "enPromocion": false
+    }
+]
